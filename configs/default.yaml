@@ -1,0 +1,6 @@
+model:
+  model_name: "yolo11s.pt"
+  conf_threshold: 0.35
+
+data:
+  image_extensions: [".jpg", ".jpeg", ".png"] 
